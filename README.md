@@ -21,6 +21,9 @@ git clone https://github.com/AndRos1997/ToDoList-Java-Swing.git
 * Clic derecho sobre el proyecto
 * Seleccionar **Run**
 
+* Otras opciones:
+* En el nuevo release se encuentra un .jar para ser ejecutado si no se tiene NetBeans
+
 📌 Requisitos:
 
 * Java JDK 8 o superior
